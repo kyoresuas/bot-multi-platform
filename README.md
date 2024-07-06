@@ -6,8 +6,8 @@
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone <URL вашего репозитория>
-    cd <имя директории>
+    git clone https://github.com/kyoresuas/multi-platform-bot-architecture
+    cd multi-platform-bot-architecture
     ```
 
 2. Установите зависимости:
